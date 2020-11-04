@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react_pet_project/static/css/main.0a798d37.chunk.css",
+    "main.js": "/react_pet_project/static/js/main.bcb0fab9.chunk.js",
+    "main.js.map": "/react_pet_project/static/js/main.bcb0fab9.chunk.js.map",
+    "runtime-main.js": "/react_pet_project/static/js/runtime-main.cb3e6b3e.js",
+    "runtime-main.js.map": "/react_pet_project/static/js/runtime-main.cb3e6b3e.js.map",
+    "static/js/2.861510d8.chunk.js": "/react_pet_project/static/js/2.861510d8.chunk.js",
+    "static/js/2.861510d8.chunk.js.map": "/react_pet_project/static/js/2.861510d8.chunk.js.map",
+    "index.html": "/react_pet_project/index.html",
+    "precache-manifest.61178f08e5eccc200fe9bd364c6b262d.js": "/react_pet_project/precache-manifest.61178f08e5eccc200fe9bd364c6b262d.js",
+    "service-worker.js": "/react_pet_project/service-worker.js",
+    "static/css/main.0a798d37.chunk.css.map": "/react_pet_project/static/css/main.0a798d37.chunk.css.map",
+    "static/js/2.861510d8.chunk.js.LICENSE.txt": "/react_pet_project/static/js/2.861510d8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb3e6b3e.js",
+    "static/js/2.861510d8.chunk.js",
+    "static/css/main.0a798d37.chunk.css",
+    "static/js/main.bcb0fab9.chunk.js"
+  ]
+}
